@@ -1,4 +1,4 @@
-# open repository journal/ thesis
+# open repository journal/ thesis/ books
 In this repository, I will list any libraries that are open for education, especially in Indonesia
 
 | No  | Repository                   | Status | Link                                    | Type | Added on      | From   |
@@ -11,11 +11,12 @@ In this repository, I will list any libraries that are open for education, espec
 | 6   | Repository UIN Jakarta       | ✅     | https://repository.uinjkt.ac.id/dspace/ | 🔓   | February 2023 | IDN    |
 | 7   | Repository UIN Suska         | ✅     | https://repository.uin-suska.ac.id/     | 🔓   | February 2023 | IDN    |
 | 8   | Repository UIN Malang        | ✅     | http://repository.uin-malang.ac.id/     | 🔓   | February 2023 | IDN    |
-| 9   | Repository Garuda            | 🔻     | https://garuda.kemdikbud.go.id/         | 🔓   | February 2023 | IDN    |
+| 9   | Repository Garuda            | 🐌     | https://garuda.kemdikbud.go.id/         | 🔓   | February 2023 | IDN    |
 | ⏳  | ⏳                           | ⏳     | ⏳                                      | ⏳   | ⏳            | ⏳     |
 
 ```
 ✅ : Website Status Stable
+🐌 : Website Status Slow Access
 🔻 : Website Status Down
 🔓 : Open Access
 🔐 : Lock & Unlock Access
