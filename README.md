@@ -18,7 +18,7 @@ In this repository, I will list any libraries that are open for education, espec
 | UNM Repository                    | ✅     | https://repository.nusamandiri.ac.id/   | 🔓   | February 2023 | IDN    |
 | Repository Universitas N. Padang  | ✅     | http://repository.unp.ac.id/            | 🔓   | February 2023 | IDN    |
 | Repository Universitas Medan Area | ✅     | https://repositori.uma.ac.id/           | 🔓   | February 2023 | IDN    |
-| Repository Garuda                 | 🔻     | https://garuda.kemdikbud.go.id/         | 🔓   | February 2023 | IDN    |
+| Repository Garuda                 | 🐌     | https://garuda.kemdikbud.go.id/         | 🔓   | February 2023 | IDN    |
 | ⏳                                | ⏳     | ⏳                                      | ⏳   | ⏳            | ⏳     |
 
 Repository ini sifatnya terbuka (Open Source), jadi siapapun boleh ikut serta membantu menambahkan pada pull request ataupun melaporkan issue, Terimakasih semoga bermanfaat.
