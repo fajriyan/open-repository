@@ -1,6 +1,6 @@
 # open repository journal/ thesis
 
-In this repository, I will list any libraries that are open for education, especially in Indonesia <br>
+Ini adalah sebuah repositori yang menampilkan Data Open Repository Jurnal/ Skripsi yang bisa dijadikan sumber skripsi <br>
 ![Update](https://img.shields.io/github/last-commit/fajriyan/open-repository?label=last%20update)
 
 | Repository                        | Status | Link                                    | Type | Added on      | From   |
