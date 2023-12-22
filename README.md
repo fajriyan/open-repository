@@ -1,6 +1,6 @@
 # open repository journal/ thesis
 
-Ini adalah sebuah repositori yang menampilkan Data Open Repository Jurnal/ Skripsi yang bisa dijadikan sumber skripsi <br>
+[hold] Ini adalah sebuah repositori yang menampilkan Data Open Repository Jurnal/ Skripsi yang bisa dijadikan sumber skripsi <br>
 ![Update](https://img.shields.io/github/last-commit/fajriyan/open-repository?label=last%20update)
 
 | Repository                        | Status | Link                                    | Type | Added on      | From   |
@@ -18,7 +18,7 @@ Ini adalah sebuah repositori yang menampilkan Data Open Repository Jurnal/ Skrip
 | UNM Repository                    | ✅     | https://repository.nusamandiri.ac.id/   | 🔓   | February 2023 | IDN    |
 | Repository Universitas N. Padang  | ✅     | http://repository.unp.ac.id/            | 🔓   | February 2023 | IDN    |
 | Repository Universitas Medan Area | ✅     | https://repositori.uma.ac.id/           | 🔓   | February 2023 | IDN    |
-| Repository Garuda                 | 🐌     | https://garuda.kemdikbud.go.id/         | 🔓   | February 2023 | IDN    |
+| Repository Garuda                 | ✅    | https://garuda.kemdikbud.go.id/         | 🔓   | February 2023 | IDN    |
 | ⏳                                | ⏳     | ⏳                                      | ⏳   | ⏳            | ⏳     |
 
 Repository ini sifatnya terbuka (Open Source), jadi siapapun boleh ikut serta membantu menambahkan pada pull request ataupun melaporkan issue, Terimakasih semoga bermanfaat.
