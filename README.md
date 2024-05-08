@@ -30,3 +30,4 @@ Repository ini sifatnya terbuka (Open Source), jadi siapapun boleh ikut serta me
 🔐 : Lock & Unlock Access
 🔑 : Full Lock Access
 ```
+add new data in repo
