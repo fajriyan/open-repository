@@ -10,8 +10,11 @@ Berikut ini adalah sebuah data List repository dari beberapa sumber (Universitas
 | DOAJ                              | ✅     | https://doaj.org/                       | 🔓   | February 2023 | Global |
 | Repository Sinta Kemendikbud      | ✅     | https://sinta.kemdikbud.go.id/          | 🔓   | February 2023 | IDN    |
 | Repository Gadjah Mada        | ✅     | https://etd.repository.ugm.ac.id/             | 🔓 | June 2024 | IDN    |
+| Repository Univ. Indonesia        | ✅     | https://lib.ui.ac.id/daftikol2?id=102             | 🔓 |June 2024 | IDN    |
 | Repository Univ. Brawijaya        | ✅     | http://repository.ub.ac.id/             | 🔓🔐 | February 2023 | IDN    |
+| Repository ITB                    | ✅     | https://digilib.itb.ac.id/          | 🔓 | June 2024 | IDN    |
 | Repository ITS                    | ✅     | https://repository.its.ac.id/           | 🔓🔐 | February 2023 | IDN    |
+| Repository Unair                    | ✅     | https://repository.unair.ac.id/           | 🔓🔐 | June 2024 | IDN    |
 | Repository Ubaya                  | ✅     | http://repository.ubaya.ac.id/          | 🔓   | February 2023 | IDN    |
 | Repository UIN Jakarta            | ✅     | https://repository.uinjkt.ac.id/dspace/ | 🔓   | February 2023 | IDN    |
 | Repository UIN Suska              | ✅     | https://repository.uin-suska.ac.id/     | 🔓   | February 2023 | IDN    |
